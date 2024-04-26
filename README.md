@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/VictorFSQ/VictorFSQ/assets/168148320/a0397666-1af5-43b4-87a4-a1c24d9d40ec)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### 👋 Olá, meu nome é Victor Ferreira
 <p>Explorador no universo da programação!</p>
