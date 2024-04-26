@@ -12,6 +12,7 @@
 
   <a href="mailto:victorferreirasiqueira@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-gmail-f00?style=flat-square&labelColor=f00&logo=gmail&logoColor=white&link=" alt="WhatsApp"/></a>
+    <a href="https://www.instagram.com/victorferreiradesiqueira//" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/>
   </a>
 </p>
